@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843208720763",
+    "project_id": "samplecrashlytic-4e867",
+    "storage_bucket": "samplecrashlytic-4e867.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843208720763:android:678da5858d9d480c06bdde",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crashlytic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843208720763-h52ltheoubl74ivqr3tt2ngsldom1d0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyConAVVOUHXDWSN8Bo5em4h5_3x90m7DRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843208720763-h52ltheoubl74ivqr3tt2ngsldom1d0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
